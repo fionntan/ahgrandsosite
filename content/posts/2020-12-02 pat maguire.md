@@ -4,11 +4,11 @@ date: 2020-12-02
 draft: false
 ---
 
-I heard this tune on Ian Lynch’s wonderful podcast [Fire Draw Near](~https://campsite.bio/firedrawnear~).  
+I heard this tune on Ian Lynch’s wonderful podcast [Fire Draw Near](https://campsite.bio/firedrawnear).  
 
 Wonderful, as in, the podcast is literally full of wonders. Wonder about the songs, where they came from and how they pass through people and time. Wonder about the singers, who they are and where they got the gift of their beautiful voices. And mainly wonder how Ian keeps finding such class tunes!
 
-I'm usually floored by at least a couple of songs on each episode. And one in particular on [Episode XIII](~https://soundcloud.com/firedrawnear/fire-draw-near-episode-xiii~) was **Pat Maguire** by [Frank Harte](~https://en.wikipedia.org/wiki/Frank_Harte~)[^1] and [Dónal Lunny](~https://en.wikipedia.org/wiki/Dónal_Lunny~)[^2].
+I'm usually floored by at least a couple of songs on each episode. And one in particular on [Episode XIII](https://soundcloud.com/firedrawnear/fire-draw-near-episode-xiii) was **Pat Maguire** by [Frank Harte](https://en.wikipedia.org/wiki/Frank_Harte)[^1] and [Dónal Lunny](https://en.wikipedia.org/wiki/Dónal_Lunny)[^2].
 
 I’ll often try and hunt down the lyrics of folk songs I like. Not out of any ability to sing them well. More just to enjoy them as a story and imagine the characters and setting. 
 
