@@ -102,6 +102,6 @@ And here they are.
 
 ---
  
-[^1]: I read this page wondering why this lesser-known folk singer had such a full biography on Wikipedia. So I checked who added the information. Turns out it’s some legend pensioner called [Patrick](~https://en.wikipedia.org/wiki/User:Pdebee~) who lives by the Welsh coast. He’s edited literally **hundreds** of musicians’ pages, along with a heap of other stuff. Blessed be the unsung Wikipedia editors, that’s what I say.
+[^1]: I read this page wondering why this lesser-known folk singer had such a full biography on Wikipedia. So I checked who added the information. Turns out it’s some legend pensioner called [Patrick](https://en.wikipedia.org/wiki/User:Pdebee) who lives by the Welsh coast. He’s edited literally *hundreds* of musicians’ pages, along with a heap of other stuff. Blessed be the unsung Wikipedia editors, that’s what I say.
 
-[^2]: Was unsure what Dónal did on this song as I couldn’t hear him playing. However, [Ian let me know through Twitter](~https://twitter.com/oneleg_oneeye/status/1334051221896884225~) that “Dónal Lunny played accompaniment on about half the songs on this album (The Hungry Voice), but this song wasn’t one of them…”. 
+[^2]: Was unsure what Dónal did on this song as I couldn’t hear him playing. However, [Ian let me know through Twitter](https://twitter.com/oneleg_oneeye/status/1334051221896884225) that “Dónal Lunny played accompaniment on about half the songs on this album (The Hungry Voice), but this song wasn’t one of them…”. 
