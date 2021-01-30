@@ -2,7 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "en-uk"
 title = "Ah, Grand So"
 theme = "charaka-hugo-theme"
-copyright = "&copy; <a href=\"https://github.com/natarajmb\">Nataraj Basappa</a> 2018"
+# copyright = "&copy; <a href=\"https://github.com/natarajmb\">Nataraj Basappa</a> 2018"
+# copyright = "&copy; Fionntán O'Donnell"
 disqusShortname = ""
 googleAnalytics = ""
 
@@ -11,9 +12,9 @@ googleAnalytics = ""
 [params.highlight]
   style = "zenburn"
 
-[[params.social]]
-  url = "about.html"
-  fa_icon = "fas fa-info" 
+# [[params.social]]
+#   url = "about.html"
+#   fa_icon = "fas fa-info" 
 
 # [[params.social]]
 #   url = "https://github.com/natarajmb"

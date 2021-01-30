@@ -1,7 +1,7 @@
 ---
 title: "Lyrics of ‘Pat Maguire’ by Frank Harte"
 date: 2020-12-02
-draft: true
+draft: false
 ---
 
 I heard this tune on Ian Lynch’s wonderful podcast [Fire Draw Near](~https://campsite.bio/firedrawnear~).  
