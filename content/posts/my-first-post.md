@@ -1,6 +1,6 @@
 ---
 title: "Lyrics of ‘Pat Maguire’ by Frank Harte"
-date: 2021-01-30T18:03:53Z
+date: 2020-12-02
 draft: true
 ---
 
@@ -12,7 +12,7 @@ I'm usually floored by at least a couple of songs on each episode. And one in pa
 
 I’ll often try and hunt down the lyrics of folk songs I like. Not out of any ability to sing them well. More just to enjoy them as a story and imagine the characters and setting. 
 
-However, for **Pat Maguire** I couldn’t find the words out there on the great wide googles. So I decided to sit down and do a service for all of ye and transcribe them and post them. 
+However, for *Pat Maguire* I couldn’t find the words out there on the great wide googles. So I decided to sit down and do a service for all of ye and transcribe them and post them. 
  
 And here they are. 
 
@@ -36,68 +36,68 @@ And here they are.
 *And to leave the land where I was born*\
 *Called Éireann’s lovely home*
  
-> I went unto the landlord and<br /> 
-> I this to him did say<br />
-> Why do you dispose me sure<br />
-> I am clear with you ’til May<br />
-> With his agent nigh, he did reply<br />
-> No longer need you wait<br />
-> For I’ll tumble all small houses down<br />
-> That stand on my estate<br />
-> 
-> I was full of grief and without relief<br />
-> When I homeward took my way<br />
-> To tell my aged parents what<br />
-> The landlord had to say<br />
-> When I related all to them<br />
-> Sure our cries did render the earth<br />
-> And my aged father also wept<br />
-> And he tore his old grey hair<br />
-> 
-> And the day of our eviction sure<br />
-> It was a dreadful sight<br />
-> The sheriff and the landlord came<br /> 
-> All along with all of their might<br />
-> They knocked on the roof and windows<br />
-> And they put us all to flight<br />
-> And then left us there out behind the ditch<br />
-> On the cold and winter’s night<br />
-> 
-> My father and my mother too<br />
-> Well they died the following day<br />
-> And after I had buried them<br />
-> Well I swore without delay<br />
-> I’d kill the man that took my land<br />
-> And caused my sad downfall<br />
-> I would him shoot before I go<br />
-> And leave old Donegal<br />
-> 
-> Now when this was done I then rode on<br />
-> But I chanced to look behind<br />
-> A polisman was pursuing me<br />
-> On a horse more swift than mine<br />
-> Come stand your ground young man he said<br />
-> You will not escape from me<br />
-> For I saw you shoot the landlord dead<br />
-> From behind the old oak tree<br />
-> 
-> Well I told him how he had used us with<br />
-> A heart as hard as steel<br />
-> And how he turned my family out<br />
-> Into an open field<br />
-> Three times I asked him to pass me by<br />
-> But this he would not do<br />
-> So I gave one shout for liberty<br />
-> Then I boldly shot him too<br />
-> 
-> My name is Pat Maguire<br />
-> I am a shoemaker by trade<br />
-> I am one of Molly’s darling sons<br />
-> That was never once afraid<br />
-> And if every man in Paddy’s land<br />
-> He would say his prayers like me<br />
-> We’d be rid of those cursed landlords and<br />
-> Old Ireland would set free<br />
+*I went unto the landlord and*\
+*I this to him did say*\
+*Why do you dispose me sure*\
+*I am clear with you ’til May*\
+*With his agent nigh, he did reply*\
+*No longer need you wait*\
+*For I’ll tumble all small houses down*\
+*That stand on my estate*
+ 
+*I was full of grief and without relief*\
+*When I homeward took my way*\
+*To tell my aged parents what*\
+*The landlord had to say*\
+*When I related all to them*\
+*Sure our cries did render the earth*\
+*And my aged father also wept*\
+*And he tore his old grey hair*
+
+*And the day of our eviction sure*\
+*It was a dreadful sight*\
+*The sheriff and the landlord came*\
+*All along with all of their might*\
+*They knocked on the roof and windows*\
+*And they put us all to flight*\
+*And then left us there out behind the ditch*\
+*On the cold and winter’s night*
+
+*My father and my mother too*\
+*Well they died the following day*\
+*And after I had buried them*\
+*Well I swore without delay*\
+*I’d kill the man that took my land*\
+*And caused my sad downfall*\
+*I would him shoot before I go*\
+*And leave old Donegal*
+
+*Now when this was done I then rode on*\
+*But I chanced to look behind*\
+*A polisman was pursuing me*\
+*On a horse more swift than mine*\
+*Come stand your ground young man he said*\
+*You will not escape from me*\
+*For I saw you shoot the landlord dead*\
+*From behind the old oak tree*
+
+*Well I told him how he had used us with*\
+*A heart as hard as steel*\
+*And how he turned my family out*\
+*Into an open field*\
+*Three times I asked him to pass me by*\
+*But this he would not do*\
+*So I gave one shout for liberty*\
+*Then I boldly shot him too*
+
+*My name is Pat Maguire*\
+*I am a shoemaker by trade*\
+*I am one of Molly’s darling sons*\
+*That was never once afraid*\
+*And if every man in Paddy’s land*\
+*He would say his prayers like me*\
+*We’d be rid of those cursed landlords and*\
+*Old Ireland would set free*
 
 
 ---
